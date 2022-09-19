@@ -1,5 +1,5 @@
 
-# Praktikum Machine Learning
+# Praktikum Machine Learning (Tahun 2021 Genap)
 
 Dalam project ini terdapat beberapa contoh Machine Learning dengan bahasa Python menggunakan library Scikit Learn
 
